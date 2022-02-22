@@ -1,2 +1,2 @@
 title: Emplate Link Test
-include: [".well-known"]
+include: [".well-known/apple-app-site-association"]
