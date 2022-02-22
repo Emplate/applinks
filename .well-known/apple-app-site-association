@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "it.emplate.city2"],
+             "appIDs": [ "it.emplate.devm"],
              "components": [
                {
                   "#": "no_universal_links",
